@@ -13,7 +13,7 @@ import pandas as pd
 import os
 
 # Clear screen
-os.system('cls' if os.name == 'nt' else 'clear')
+os.system('cls')
 
 
 # Enter your controller hostname/IP and user credentials below.  
